@@ -1,6 +1,8 @@
 # SendApp
 A React Native App, allows users to share files between different devices.
 
+My HKUST 2020 Semester CSIT6910A (R1) - Independent Project
+
 The [demonstration](https://github.com/liao-victor/SendApp/blob/main/demo.pdf) describes how this app works in detail.
 
 ## Tips of installation
